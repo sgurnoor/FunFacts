@@ -1,8 +1,0 @@
-version: "Apple Swift version 2.1.1 (swiftlang-700.1.101.13 clang-700.1.81)"
-options: "cedccee81f9007cf7a066a4e99469d07"
-build_time: [500628026, 531331000]
-inputs:
-  "/Users/gurnoor/Desktop/iOS/FunFacts/FunFacts/AppDelegate.swift": [500628026, 0]
-  "/Users/gurnoor/Desktop/iOS/FunFacts/FunFacts/ViewController.swift": [500627598, 0]
-  "/Users/gurnoor/Desktop/iOS/FunFacts/FunFacts/FactBook.swift": [500625294, 0]
-  "/Users/gurnoor/Desktop/iOS/FunFacts/FunFacts/ColorWheel.swift": [500627317, 0]
