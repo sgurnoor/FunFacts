@@ -1,0 +1,277 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ViewController"
+provides-nominal:
+- "C8FunFacts14ViewController"
+provides-member:
+- ["C8FunFacts14ViewController", ""]
+provides-dynamic-lookup:
+- "didReceiveMemoryWarning"
+- "funFactLabel"
+- "viewDidLoad"
+- "showFunFact"
+depends-top-level:
+- "ViewController"
+- "UILabel"
+- "UIViewController"
+- "FactBook"
+depends-member:
+- ["PSs9AnyObject", "FactBook"]
+- ["PSs9AnyObject", "didReceiveMemoryWarning"]
+- ["PSs9AnyObject", "factBook"]
+- ["PSs9AnyObject", "funFactLabel"]
+- ["PSs9AnyObject", "init"]
+- ["PSs9AnyObject", "showFunFact"]
+- !private ["PSs9AnyObject", "text"]
+- ["PSs9AnyObject", "viewDidLoad"]
+- ["PSs9AnyObject", ""]
+- !private ["Sa", "Index"]
+- !private ["Sa", "deinit"]
+- !private ["Sa", "subscript"]
+- !private ["PSs23ArrayLiteralConvertible", "Index"]
+- !private ["PSs23ArrayLiteralConvertible", "subscript"]
+- ["PSs11CVarArgType", "FactBook"]
+- ["PSs11CVarArgType", "didReceiveMemoryWarning"]
+- ["PSs11CVarArgType", "factBook"]
+- ["PSs11CVarArgType", "funFactLabel"]
+- ["PSs11CVarArgType", "init"]
+- ["PSs11CVarArgType", "showFunFact"]
+- !private ["PSs11CVarArgType", "text"]
+- ["PSs11CVarArgType", "viewDidLoad"]
+- ["PSs11CVarArgType", ""]
+- !private ["PSs14CollectionType", "Generator"]
+- !private ["PSs14CollectionType", "Index"]
+- !private ["PSs14CollectionType", "SubSequence"]
+- !private ["PSs14CollectionType", "_Element"]
+- !private ["PSs14CollectionType", "subscript"]
+- !private ["PSs28CustomDebugStringConvertible", "Index"]
+- !private ["PSs28CustomDebugStringConvertible", "subscript"]
+- ["PSs23CustomStringConvertible", "FactBook"]
+- !private ["PSs23CustomStringConvertible", "Index"]
+- ["PSs23CustomStringConvertible", "didReceiveMemoryWarning"]
+- ["PSs23CustomStringConvertible", "factBook"]
+- ["PSs23CustomStringConvertible", "funFactLabel"]
+- ["PSs23CustomStringConvertible", "init"]
+- ["PSs23CustomStringConvertible", "showFunFact"]
+- !private ["PSs23CustomStringConvertible", "subscript"]
+- !private ["PSs23CustomStringConvertible", "text"]
+- ["PSs23CustomStringConvertible", "viewDidLoad"]
+- ["PSs23CustomStringConvertible", ""]
+- ["PSs9Equatable", "FactBook"]
+- ["PSs9Equatable", "didReceiveMemoryWarning"]
+- ["PSs9Equatable", "factBook"]
+- ["PSs9Equatable", "funFactLabel"]
+- ["PSs9Equatable", "init"]
+- ["PSs9Equatable", "showFunFact"]
+- !private ["PSs9Equatable", "text"]
+- ["PSs9Equatable", "viewDidLoad"]
+- ["PSs9Equatable", ""]
+- !private ["V8FunFacts8FactBook", "factsArray"]
+- ["V8FunFacts8FactBook", "init"]
+- !private ["PSs13GeneratorType", "Element"]
+- ["PSs8Hashable", "FactBook"]
+- ["PSs8Hashable", "didReceiveMemoryWarning"]
+- ["PSs8Hashable", "factBook"]
+- ["PSs8Hashable", "funFactLabel"]
+- ["PSs8Hashable", "init"]
+- ["PSs8Hashable", "showFunFact"]
+- !private ["PSs8Hashable", "text"]
+- ["PSs8Hashable", "viewDidLoad"]
+- ["PSs8Hashable", ""]
+- !private ["PSs9Indexable", "Generator"]
+- !private ["PSs9Indexable", "Index"]
+- !private ["PSs9Indexable", "SubSequence"]
+- !private ["PSs9Indexable", "_Element"]
+- !private ["PSs9Indexable", "subscript"]
+- !private ["VSs17IndexingGenerator", "Element"]
+- !private ["PSs21MutableCollectionType", "Index"]
+- !private ["PSs21MutableCollectionType", "subscript"]
+- !private ["PSs16MutableIndexable", "Index"]
+- !private ["PSs16MutableIndexable", "subscript"]
+- !private ["PSs16MutableSliceable", "Index"]
+- !private ["PSs16MutableSliceable", "subscript"]
+- ["PSo8NSCoding", "FactBook"]
+- ["PSo8NSCoding", "didReceiveMemoryWarning"]
+- ["PSo8NSCoding", "factBook"]
+- ["PSo8NSCoding", "funFactLabel"]
+- ["PSo8NSCoding", "init"]
+- ["PSo8NSCoding", "showFunFact"]
+- !private ["PSo8NSCoding", "text"]
+- ["PSo8NSCoding", "viewDidLoad"]
+- ["PSo8NSCoding", ""]
+- ["PSo26NSExtensionRequestHandling", "FactBook"]
+- ["PSo26NSExtensionRequestHandling", "didReceiveMemoryWarning"]
+- ["PSo26NSExtensionRequestHandling", "factBook"]
+- ["PSo26NSExtensionRequestHandling", "funFactLabel"]
+- ["PSo26NSExtensionRequestHandling", "init"]
+- ["PSo26NSExtensionRequestHandling", "showFunFact"]
+- ["PSo26NSExtensionRequestHandling", "viewDidLoad"]
+- ["PSo26NSExtensionRequestHandling", ""]
+- ["CSo8NSObject", "FactBook"]
+- ["CSo8NSObject", "UILabel"]
+- ["CSo8NSObject", "didReceiveMemoryWarning"]
+- ["CSo8NSObject", "factBook"]
+- ["CSo8NSObject", "funFactLabel"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "showFunFact"]
+- !private ["CSo8NSObject", "text"]
+- ["CSo8NSObject", "viewDidLoad"]
+- ["PSo16NSObjectProtocol", "FactBook"]
+- ["PSo16NSObjectProtocol", "didReceiveMemoryWarning"]
+- ["PSo16NSObjectProtocol", "factBook"]
+- ["PSo16NSObjectProtocol", "funFactLabel"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "showFunFact"]
+- !private ["PSo16NSObjectProtocol", "text"]
+- ["PSo16NSObjectProtocol", "viewDidLoad"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["PSs30RangeReplaceableCollectionType", "Index"]
+- !private ["PSs30RangeReplaceableCollectionType", "subscript"]
+- !private ["PSs12SequenceType", "Element"]
+- !private ["PSs12SequenceType", "Generator"]
+- !private ["PSs12SequenceType", "Index"]
+- !private ["PSs12SequenceType", "SubSequence"]
+- !private ["PSs12SequenceType", "_Element"]
+- !private ["PSs12SequenceType", "subscript"]
+- !private ["VSs5Slice", "Generator"]
+- !private ["VSs5Slice", "Index"]
+- !private ["VSs5Slice", "SubSequence"]
+- !private ["VSs5Slice", "_Element"]
+- !private ["PSo29UIAccessibilityIdentification", "text"]
+- !private ["PSo12UIAppearance", "text"]
+- ["PSo21UIAppearanceContainer", "FactBook"]
+- ["PSo21UIAppearanceContainer", "didReceiveMemoryWarning"]
+- ["PSo21UIAppearanceContainer", "factBook"]
+- ["PSo21UIAppearanceContainer", "funFactLabel"]
+- ["PSo21UIAppearanceContainer", "init"]
+- ["PSo21UIAppearanceContainer", "showFunFact"]
+- !private ["PSo21UIAppearanceContainer", "text"]
+- ["PSo21UIAppearanceContainer", "viewDidLoad"]
+- ["PSo21UIAppearanceContainer", ""]
+- ["PSo18UIContentContainer", "FactBook"]
+- ["PSo18UIContentContainer", "didReceiveMemoryWarning"]
+- ["PSo18UIContentContainer", "factBook"]
+- ["PSo18UIContentContainer", "funFactLabel"]
+- ["PSo18UIContentContainer", "init"]
+- ["PSo18UIContentContainer", "showFunFact"]
+- ["PSo18UIContentContainer", "viewDidLoad"]
+- ["PSo18UIContentContainer", ""]
+- !private ["PSo17UICoordinateSpace", "text"]
+- !private ["PSo13UIDynamicItem", "text"]
+- ["PSo18UIFocusEnvironment", "FactBook"]
+- ["PSo18UIFocusEnvironment", "didReceiveMemoryWarning"]
+- ["PSo18UIFocusEnvironment", "factBook"]
+- ["PSo18UIFocusEnvironment", "funFactLabel"]
+- ["PSo18UIFocusEnvironment", "init"]
+- ["PSo18UIFocusEnvironment", "showFunFact"]
+- !private ["PSo18UIFocusEnvironment", "text"]
+- ["PSo18UIFocusEnvironment", "viewDidLoad"]
+- ["PSo18UIFocusEnvironment", ""]
+- !private ["CSo7UILabel", "text"]
+- ["CSo11UIResponder", "FactBook"]
+- ["CSo11UIResponder", "UILabel"]
+- ["CSo11UIResponder", "didReceiveMemoryWarning"]
+- ["CSo11UIResponder", "factBook"]
+- ["CSo11UIResponder", "funFactLabel"]
+- ["CSo11UIResponder", "init"]
+- ["CSo11UIResponder", "showFunFact"]
+- !private ["CSo11UIResponder", "text"]
+- ["CSo11UIResponder", "viewDidLoad"]
+- ["PSo16UIStateRestoring", "FactBook"]
+- ["PSo16UIStateRestoring", "didReceiveMemoryWarning"]
+- ["PSo16UIStateRestoring", "factBook"]
+- ["PSo16UIStateRestoring", "funFactLabel"]
+- ["PSo16UIStateRestoring", "init"]
+- ["PSo16UIStateRestoring", "showFunFact"]
+- ["PSo16UIStateRestoring", "viewDidLoad"]
+- ["PSo16UIStateRestoring", ""]
+- ["PSo18UITraitEnvironment", "FactBook"]
+- ["PSo18UITraitEnvironment", "didReceiveMemoryWarning"]
+- ["PSo18UITraitEnvironment", "factBook"]
+- ["PSo18UITraitEnvironment", "funFactLabel"]
+- ["PSo18UITraitEnvironment", "init"]
+- ["PSo18UITraitEnvironment", "showFunFact"]
+- !private ["PSo18UITraitEnvironment", "text"]
+- ["PSo18UITraitEnvironment", "viewDidLoad"]
+- ["PSo18UITraitEnvironment", ""]
+- !private ["CSo6UIView", "text"]
+- ["CSo16UIViewController", "FactBook"]
+- ["CSo16UIViewController", "UILabel"]
+- ["CSo16UIViewController", "didReceiveMemoryWarning"]
+- ["CSo16UIViewController", "factBook"]
+- ["CSo16UIViewController", "funFactLabel"]
+- ["CSo16UIViewController", "init"]
+- ["CSo16UIViewController", "showFunFact"]
+- ["CSo16UIViewController", "viewDidLoad"]
+- ["CSo16UIViewController", ""]
+- ["C8FunFacts14ViewController", "FactBook"]
+- ["C8FunFacts14ViewController", "UILabel"]
+- ["C8FunFacts14ViewController", "deinit"]
+- ["C8FunFacts14ViewController", "didReceiveMemoryWarning"]
+- ["C8FunFacts14ViewController", "factBook"]
+- ["C8FunFacts14ViewController", "funFactLabel"]
+- ["C8FunFacts14ViewController", "init"]
+- ["C8FunFacts14ViewController", "showFunFact"]
+- ["C8FunFacts14ViewController", "viewDidLoad"]
+- !private ["PSs10_ArrayType", "Index"]
+- !private ["PSs10_ArrayType", "subscript"]
+- !private ["PSs24_DestructorSafeContainer", "Index"]
+- !private ["PSs24_DestructorSafeContainer", "subscript"]
+- !private ["PSs21_ObjectiveCBridgeable", "Index"]
+- !private ["PSs21_ObjectiveCBridgeable", "subscript"]
+- !private ["PSs12_Reflectable", "Index"]
+- !private ["PSs12_Reflectable", "subscript"]
+- !private ["PSs12_Reflectable", "text"]
+depends-nominal:
+- "PSs9AnyObject"
+- !private "Sa"
+- !private "PSs23ArrayLiteralConvertible"
+- "PSs11CVarArgType"
+- !private "PSs14CollectionType"
+- !private "PSs28CustomDebugStringConvertible"
+- "PSs23CustomStringConvertible"
+- "PSs9Equatable"
+- "V8FunFacts8FactBook"
+- !private "PSs13GeneratorType"
+- "PSs8Hashable"
+- !private "PSs9Indexable"
+- !private "VSs17IndexingGenerator"
+- !private "PSs21MutableCollectionType"
+- !private "PSs16MutableIndexable"
+- !private "PSs16MutableSliceable"
+- "PSo8NSCoding"
+- "PSo26NSExtensionRequestHandling"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "PSs30RangeReplaceableCollectionType"
+- !private "PSs12SequenceType"
+- !private "VSs5Slice"
+- !private "PSo29UIAccessibilityIdentification"
+- !private "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- "PSo18UIContentContainer"
+- !private "PSo17UICoordinateSpace"
+- !private "PSo13UIDynamicItem"
+- "PSo18UIFocusEnvironment"
+- !private "CSo7UILabel"
+- "CSo11UIResponder"
+- "PSo16UIStateRestoring"
+- "PSo18UITraitEnvironment"
+- !private "CSo6UIView"
+- "CSo16UIViewController"
+- "C8FunFacts14ViewController"
+- !private "PSs10_ArrayType"
+- !private "PSs24_DestructorSafeContainer"
+- !private "PSs21_ObjectiveCBridgeable"
+- !private "PSs12_Reflectable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+interface-hash: "8491ea5bf1d96857001356e34e17aca9"

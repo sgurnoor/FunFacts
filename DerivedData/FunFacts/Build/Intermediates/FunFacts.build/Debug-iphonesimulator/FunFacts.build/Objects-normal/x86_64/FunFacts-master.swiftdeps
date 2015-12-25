@@ -1,0 +1,7 @@
+version: "Apple Swift version 2.1.1 (swiftlang-700.1.101.13 clang-700.1.81)"
+options: "80d1734bea2b1fd5e5a92f3be3f27ee2"
+build_time: [500624492, 715259000]
+inputs:
+  "/Users/gurnoor/Desktop/iOS/FunFacts/FunFacts/AppDelegate.swift": [500574231, 0]
+  "/Users/gurnoor/Desktop/iOS/FunFacts/FunFacts/factBook.swift": [9223372036854775807, 0]
+  "/Users/gurnoor/Desktop/iOS/FunFacts/FunFacts/ViewController.swift": [500624432, 0]
