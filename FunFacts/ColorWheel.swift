@@ -10,6 +10,8 @@ import Foundation
 import UIKit
 
 struct ColorWheel {
+    
+    // an array of colors used as view's background and button's text color
     let colorsArray = [
         UIColor(red: 90/255.0, green: 187/255.0, blue: 181/255.0, alpha: 1.0), //teal color
         UIColor(red: 222/255.0, green: 171/255.0, blue: 66/255.0, alpha: 1.0), //yellow color
@@ -20,6 +22,8 @@ struct ColorWheel {
         UIColor(red: 85/255.0, green: 176/255.0, blue: 112/255.0, alpha: 1.0), //green color
     ]
     
+    
+    // Chooses a random color
     func randomColor() -> UIColor {
         let unsignedArrayCount = UInt32(colorsArray.count)
         let unsignedRandomNumber = arc4random_uniform(unsignedArrayCount)

@@ -36,15 +36,15 @@
 /* Begin PBXFileReference section */
 		FE4015081BF464C600C88BF1 /* FactBook.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FactBook.swift; sourceTree = "<group>"; };
 		FE40150A1BF4716200C88BF1 /* ColorWheel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ColorWheel.swift; sourceTree = "<group>"; };
-		FEE01EAB1BF3A31700412E4D /* FunFacts.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = FunFacts.app; path = "/Users/gurnoor/Desktop/iOS/FunFacts/build/Debug-iphoneos/FunFacts.app"; sourceTree = "<absolute>"; };
+		FE85C0981C2CD227000825E3 /* FunFacts.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = FunFacts.app; path = "/Users/gurnoor/Desktop/iOS/FunFacts/build/Debug-iphoneos/FunFacts.app"; sourceTree = "<absolute>"; };
+		FE85C0991C2CD227000825E3 /* FunFactsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = FunFactsTests.xctest; path = "/Users/gurnoor/Desktop/iOS/FunFacts/build/Debug-iphoneos/FunFactsTests.xctest"; sourceTree = "<absolute>"; };
+		FE85C09A1C2CD227000825E3 /* FunFactsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = FunFactsUITests.xctest; path = "/Users/gurnoor/Desktop/iOS/FunFacts/build/Debug-iphoneos/FunFactsUITests.xctest"; sourceTree = "<absolute>"; };
 		FEE01EAE1BF3A31700412E4D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FEE01EB01BF3A31700412E4D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		FEE01EB31BF3A31700412E4D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		FEE01EB51BF3A31700412E4D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FEE01EB81BF3A31700412E4D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FEE01EBA1BF3A31700412E4D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		FEE01EBF1BF3A31700412E4D /* FunFactsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = FunFactsTests.xctest; path = "/Users/gurnoor/Desktop/iOS/FunFacts/build/Debug-iphoneos/FunFactsTests.xctest"; sourceTree = "<absolute>"; };
-		FEE01ECA1BF3A31700412E4D /* FunFactsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = FunFactsUITests.xctest; path = "/Users/gurnoor/Desktop/iOS/FunFacts/build/Debug-iphoneos/FunFactsUITests.xctest"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,13 +83,13 @@
 			isa = PBXGroup;
 			children = (
 				FE4015081BF464C600C88BF1 /* FactBook.swift */,
+				FE40150A1BF4716200C88BF1 /* ColorWheel.swift */,
 				FEE01EAE1BF3A31700412E4D /* AppDelegate.swift */,
 				FEE01EB01BF3A31700412E4D /* ViewController.swift */,
 				FEE01EB21BF3A31700412E4D /* Main.storyboard */,
 				FEE01EB51BF3A31700412E4D /* Assets.xcassets */,
 				FEE01EB71BF3A31700412E4D /* LaunchScreen.storyboard */,
 				FEE01EBA1BF3A31700412E4D /* Info.plist */,
-				FE40150A1BF4716200C88BF1 /* ColorWheel.swift */,
 			);
 			path = FunFacts;
 			sourceTree = "<group>";
@@ -111,7 +111,7 @@
 			);
 			name = FunFacts;
 			productName = FunFacts;
-			productReference = FEE01EAB1BF3A31700412E4D /* FunFacts.app */;
+			productReference = FE85C0981C2CD227000825E3 /* FunFacts.app */;
 			productType = "com.apple.product-type.application";
 		};
 		FEE01EBE1BF3A31700412E4D /* FunFactsTests */ = {
@@ -129,7 +129,7 @@
 			);
 			name = FunFactsTests;
 			productName = FunFactsTests;
-			productReference = FEE01EBF1BF3A31700412E4D /* FunFactsTests.xctest */;
+			productReference = FE85C0991C2CD227000825E3 /* FunFactsTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 		FEE01EC91BF3A31700412E4D /* FunFactsUITests */ = {
@@ -147,7 +147,7 @@
 			);
 			name = FunFactsUITests;
 			productName = FunFactsUITests;
-			productReference = FEE01ECA1BF3A31700412E4D /* FunFactsUITests.xctest */;
+			productReference = FE85C09A1C2CD227000825E3 /* FunFactsUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
